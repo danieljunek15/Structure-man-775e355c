@@ -1,0 +1,17 @@
+th {
+    background: rgb(184, 184, 184);
+    border: 3px solid rgb(75, 75, 75);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+
+td {
+    background: rgb(77, 253, 8);
+    border: solid rgb(141, 0, 0);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    padding: 15px;
+}
